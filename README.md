@@ -1,0 +1,1 @@
+# JsmincCompressor-tests

@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/malida/sprockets.git
-  revision: 5e6a176533d78cfeb89f9a8f58b9bd9b4e9e7039
+  revision: 9d7fd20b9201ec2cc315a092824cb01915fa2d0a
   branch: jsminc
   specs:
     sprockets (4.0.0)
@@ -11,12 +11,14 @@ GEM
   specs:
     jsminc (1.1.1)
     rack (1.6.4)
+    sass (3.4.16)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   jsminc
+  sass
   sprockets!
 
 BUNDLED WITH
